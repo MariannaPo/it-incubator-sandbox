@@ -1,1 +1,0 @@
-const myArray = ['string', 1]
