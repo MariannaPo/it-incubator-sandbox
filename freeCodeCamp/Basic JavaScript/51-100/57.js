@@ -1,5 +1,5 @@
 function nextInLine(arr, item) {
-    arr.push()
+    arr.push(item);
     let del = arr.shift();
     return del;
 }
